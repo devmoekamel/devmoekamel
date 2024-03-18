@@ -25,7 +25,7 @@ name: Mohamed Kamel
 located_in: Cairo, Egypt
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Mobile App  & Back-end Dev",
     "Bachelor's in Computer Science and Information",
   ]
 
