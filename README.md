@@ -32,6 +32,7 @@ education:
 fields_of_interests:
   [
     "Mobile Development",
+    "Back-end Development",
     "Data Science",
     "Machine Learning",
     "Data Analysis",
