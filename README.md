@@ -25,13 +25,14 @@ name: Mohamed Kamel
 located_in: Cairo, Egypt
 education:
   [
-    "Mobile App  & Back-end Dev",
+    "Fron-end Dev  & Back-end Dev",
     "Bachelor's in Computer Science and Information",
   ]
 
 fields_of_interests:
   [
     "Mobile Development",
+    "Front-end Development",
     "Back-end Development",
     "Data Science",
     "Machine Learning",
